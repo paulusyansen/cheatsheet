@@ -1,5 +1,22 @@
+## Installing on Mac OS X
 
-### gitflow-readme
+If you're using homebrew:
+```sh
+$ bew install git-flow
+```
+If you're using MacPorts:
+```sh
+port install git-flow
+```
+## Installing on Linux
+Ubuntu/Debian
+```sh
+$ apt-get install git-flow
+```
+fedora
+```sh
+$ sudo dnf install gitflow
+```
 
 ## Initialize
 
