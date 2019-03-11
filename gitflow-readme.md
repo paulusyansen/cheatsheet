@@ -1,19 +1,19 @@
 ## Installing on Mac OS X
 
-If you're using homebrew:
+- If you're using homebrew:
 ```sh
-$ bew install git-flow
+$ brew install git-flow
 ```
-If you're using MacPorts:
+- If you're using MacPorts:
 ```sh
-port install git-flow
+$ port install git-flow
 ```
 ## Installing on Linux
-Ubuntu/Debian
+- Ubuntu/Debian
 ```sh
 $ apt-get install git-flow
 ```
-fedora
+- fedora
 ```sh
 $ sudo dnf install gitflow
 ```
@@ -156,7 +156,7 @@ _N/A_ | `git push origin master`
 
 
 ## References
-
+ - https://danielkummer.github.io/git-flow-cheatsheet/
+ - https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
  - http://nvie.com/posts/a-successful-git-branching-model/
  - https://help.github.com/articles/using-pull-requests#shared-repository-model
- - Personal experience
